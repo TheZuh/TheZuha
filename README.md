@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TheZuha ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+<h1 align="center">Hi 👋, I'm TheZuha ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 </h1>
 <h3 align="center">A backend developer from Uzbekistan</h3>
 
