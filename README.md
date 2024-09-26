@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm TheZuha</h1>
 <h3 align="center">A backend developer from Uzbekistan</h3>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
    [![TheZuha's GitHub | Languages Over Time](https://stats.quira.sh/TheZuha/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TheZuha)
 
@@ -8,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheZuha](https://github.com/TheZuha)
+- 👨‍💻 All of my projects are available at [https://github.com/TheZuha](https://github.com/TheZuha) ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 - 💬 Ask me about **Python**
 
