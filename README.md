@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm TheZuha</h1>
+<h1 align="center">Hi 👋, I'm TheZuha ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+</h1>
 <h3 align="center">A backend developer from Uzbekistan</h3>
 
    [![TheZuha's GitHub | Languages Over Time](https://stats.quira.sh/TheZuha/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TheZuha)
