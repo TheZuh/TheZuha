@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheZuha](https://github.com/TheZuha) ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+- 👨‍💻 All of my projects are available at [https://github.com/TheZuha](https://github.com/TheZuha)
 
 - 💬 Ask me about **Python**
 
