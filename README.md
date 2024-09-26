@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TheZuha</h1>
 <h3 align="center">A backend developer from Uzbekistan</h3>
 
-align='center' [![TheZuha's GitHub | Languages Over Time](https://stats.quira.sh/TheZuha/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TheZuha)
+      [![TheZuha's GitHub | Languages Over Time](https://stats.quira.sh/TheZuha/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TheZuha)
 
 - 🔭 I’m currently working on **"Olma Market"**
 
